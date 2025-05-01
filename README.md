@@ -4,8 +4,7 @@ Movie Explorer is a React-based web application that allows users to explore mov
 
 ## Features
 
-- **Login Page**: A cinematic login page with validation for email and password fields.
-- **Search Functionality**: Search for movies directly from the header.
+- **Login Page**:login page with validation for email and password fields.
 - **Movie Details**: View detailed information about a movie, including similar movies.
 - **My List**: Add or remove movies from a personalized list.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
@@ -79,6 +78,3 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in your brow
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
